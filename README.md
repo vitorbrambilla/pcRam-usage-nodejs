@@ -1,1 +1,1 @@
-An app that shows de pc ram usage.
+An app that shows the pc ram usage.
